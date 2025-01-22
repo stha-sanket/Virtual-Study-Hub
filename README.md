@@ -7,3 +7,4 @@ educational needs of students and teachers. Here users can create their own pers
 collaborate with peers in an organized and user-friendly environment set up by the teacher of the space.
 
 ### Project Progress:
+- Database Setup
