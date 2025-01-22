@@ -8,3 +8,4 @@ collaborate with peers in an organized and user-friendly environment set up by t
 
 ### Project Progress:
 - Database Setup
+- ERM Diagram
