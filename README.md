@@ -11,3 +11,6 @@ collaborate with peers in an organized and user-friendly environment set up by t
 - ERM Diagram
 - Login/Reisster page (basic)
 - Index page (basic)
+
+### Task to be done:
+☐
