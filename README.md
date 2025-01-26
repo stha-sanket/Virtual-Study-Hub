@@ -13,4 +13,4 @@ collaborate with peers in an organized and user-friendly environment set up by t
 - Index page (basic)
 
 ### Task to be done:
-☐
+☐ Manage the session of classroom
