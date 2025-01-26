@@ -14,3 +14,5 @@ collaborate with peers in an organized and user-friendly environment set up by t
 
 ### Task to be done:
 ☐ Manage the session of classroom
+☐ Make Note taking
+☐ Make Flashcard
